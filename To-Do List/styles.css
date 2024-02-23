@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;  
+}
+
+.container {
+    background-color: aqua;
+}
+
+.lists {
+  background-color: brown;
+  width: inherit;
+  height: 100px;
+  color: white;
+}
+
